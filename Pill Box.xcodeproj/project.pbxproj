@@ -1,0 +1,396 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		524197B125A79C7700D41B51 /* simulator_screenshot_E712C656-2632-4377-8306-59D9D5744511.png in Resources */ = {isa = PBXBuildFile; fileRef = 524197B025A79C7700D41B51 /* simulator_screenshot_E712C656-2632-4377-8306-59D9D5744511.png */; };
+		524197B925A79D4200D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.47.57.png in Resources */ = {isa = PBXBuildFile; fileRef = 524197B325A79D4100D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.47.57.png */; };
+		524197BA25A79D4200D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.48.06.png in Resources */ = {isa = PBXBuildFile; fileRef = 524197B425A79D4100D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.48.06.png */; };
+		524197BB25A79D4200D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.48.11.png in Resources */ = {isa = PBXBuildFile; fileRef = 524197B525A79D4100D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.48.11.png */; };
+		524197BC25A79D4200D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.47.53.png in Resources */ = {isa = PBXBuildFile; fileRef = 524197B625A79D4100D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.47.53.png */; };
+		524197BD25A79D4200D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.43.14.png in Resources */ = {isa = PBXBuildFile; fileRef = 524197B725A79D4100D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.43.14.png */; };
+		524197BE25A79D4200D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.49.02.png in Resources */ = {isa = PBXBuildFile; fileRef = 524197B825A79D4100D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.49.02.png */; };
+		52CD9296257F797200C1F66F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52CD9295257F797200C1F66F /* AppDelegate.swift */; };
+		52CD9298257F797200C1F66F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52CD9297257F797200C1F66F /* SceneDelegate.swift */; };
+		52CD929A257F797200C1F66F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52CD9299257F797200C1F66F /* ViewController.swift */; };
+		52CD929D257F797200C1F66F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52CD929B257F797200C1F66F /* Main.storyboard */; };
+		52CD929F257F797600C1F66F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52CD929E257F797600C1F66F /* Assets.xcassets */; };
+		52CD92A2257F797600C1F66F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52CD92A0257F797600C1F66F /* LaunchScreen.storyboard */; };
+		52CD92AC257F7BC700C1F66F /* FirstTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52CD92AB257F7BC700C1F66F /* FirstTableViewController.swift */; };
+		52CD92AF257F83E500C1F66F /* PillsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52CD92AE257F83E500C1F66F /* PillsTableViewCell.swift */; };
+		52CD92B2257F85F800C1F66F /* PillsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52CD92B1257F85F800C1F66F /* PillsModel.swift */; };
+		52CD92B5257FA53F00C1F66F /* NewPillTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52CD92B4257FA53F00C1F66F /* NewPillTableViewController.swift */; };
+		52CD932D25889B1300C1F66F /* Notificaions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52CD932C25889B1300C1F66F /* Notificaions.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		524197B025A79C7700D41B51 /* simulator_screenshot_E712C656-2632-4377-8306-59D9D5744511.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "simulator_screenshot_E712C656-2632-4377-8306-59D9D5744511.png"; sourceTree = "<group>"; };
+		524197B325A79D4100D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.47.57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.47.57.png"; sourceTree = "<group>"; };
+		524197B425A79D4100D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.48.06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.48.06.png"; sourceTree = "<group>"; };
+		524197B525A79D4100D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.48.11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.48.11.png"; sourceTree = "<group>"; };
+		524197B625A79D4100D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.47.53.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.47.53.png"; sourceTree = "<group>"; };
+		524197B725A79D4100D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.43.14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.43.14.png"; sourceTree = "<group>"; };
+		524197B825A79D4100D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.49.02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.49.02.png"; sourceTree = "<group>"; };
+		52CD9292257F797200C1F66F /* Pill Box.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pill Box.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		52CD9295257F797200C1F66F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		52CD9297257F797200C1F66F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		52CD9299257F797200C1F66F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		52CD929C257F797200C1F66F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		52CD929E257F797600C1F66F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		52CD92A1257F797600C1F66F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		52CD92A3257F797600C1F66F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52CD92AB257F7BC700C1F66F /* FirstTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstTableViewController.swift; sourceTree = "<group>"; };
+		52CD92AE257F83E500C1F66F /* PillsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PillsTableViewCell.swift; sourceTree = "<group>"; };
+		52CD92B1257F85F800C1F66F /* PillsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PillsModel.swift; sourceTree = "<group>"; };
+		52CD92B4257FA53F00C1F66F /* NewPillTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewPillTableViewController.swift; sourceTree = "<group>"; };
+		52CD932C25889B1300C1F66F /* Notificaions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notificaions.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		52CD928F257F797200C1F66F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		52CD9289257F797200C1F66F = {
+			isa = PBXGroup;
+			children = (
+				52CD9294257F797200C1F66F /* Pill Box */,
+				52CD9293257F797200C1F66F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		52CD9293257F797200C1F66F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				52CD9292257F797200C1F66F /* Pill Box.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		52CD9294257F797200C1F66F /* Pill Box */ = {
+			isa = PBXGroup;
+			children = (
+				52CD9295257F797200C1F66F /* AppDelegate.swift */,
+				52CD9297257F797200C1F66F /* SceneDelegate.swift */,
+				52CD9299257F797200C1F66F /* ViewController.swift */,
+				52CD929B257F797200C1F66F /* Main.storyboard */,
+				52CD929E257F797600C1F66F /* Assets.xcassets */,
+				52CD92A0257F797600C1F66F /* LaunchScreen.storyboard */,
+				52CD92A3257F797600C1F66F /* Info.plist */,
+				52CD92AB257F7BC700C1F66F /* FirstTableViewController.swift */,
+				52CD92AE257F83E500C1F66F /* PillsTableViewCell.swift */,
+				52CD92B1257F85F800C1F66F /* PillsModel.swift */,
+				52CD92B4257FA53F00C1F66F /* NewPillTableViewController.swift */,
+				524197B025A79C7700D41B51 /* simulator_screenshot_E712C656-2632-4377-8306-59D9D5744511.png */,
+				52CD932C25889B1300C1F66F /* Notificaions.swift */,
+				524197B725A79D4100D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.43.14.png */,
+				524197B625A79D4100D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.47.53.png */,
+				524197B325A79D4100D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.47.57.png */,
+				524197B425A79D4100D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.48.06.png */,
+				524197B525A79D4100D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.48.11.png */,
+				524197B825A79D4100D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.49.02.png */,
+			);
+			path = "Pill Box";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		52CD9291257F797200C1F66F /* Pill Box */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 52CD92A6257F797600C1F66F /* Build configuration list for PBXNativeTarget "Pill Box" */;
+			buildPhases = (
+				52CD928E257F797200C1F66F /* Sources */,
+				52CD928F257F797200C1F66F /* Frameworks */,
+				52CD9290257F797200C1F66F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pill Box";
+			productName = "Pill Box";
+			productReference = 52CD9292257F797200C1F66F /* Pill Box.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		52CD928A257F797200C1F66F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1220;
+				LastUpgradeCheck = 1220;
+				TargetAttributes = {
+					52CD9291257F797200C1F66F = {
+						CreatedOnToolsVersion = 12.2;
+					};
+				};
+			};
+			buildConfigurationList = 52CD928D257F797200C1F66F /* Build configuration list for PBXProject "Pill Box" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 52CD9289257F797200C1F66F;
+			productRefGroup = 52CD9293257F797200C1F66F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				52CD9291257F797200C1F66F /* Pill Box */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		52CD9290257F797200C1F66F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				524197BD25A79D4200D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.43.14.png in Resources */,
+				524197B125A79C7700D41B51 /* simulator_screenshot_E712C656-2632-4377-8306-59D9D5744511.png in Resources */,
+				52CD92A2257F797600C1F66F /* LaunchScreen.storyboard in Resources */,
+				524197B925A79D4200D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.47.57.png in Resources */,
+				52CD929F257F797600C1F66F /* Assets.xcassets in Resources */,
+				524197BB25A79D4200D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.48.11.png in Resources */,
+				524197BE25A79D4200D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.49.02.png in Resources */,
+				52CD929D257F797200C1F66F /* Main.storyboard in Resources */,
+				524197BC25A79D4200D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.47.53.png in Resources */,
+				524197BA25A79D4200D41B51 /* Simulator Screen Shot - iPhone 12 - 2021-01-07 at 22.48.06.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		52CD928E257F797200C1F66F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52CD92AC257F7BC700C1F66F /* FirstTableViewController.swift in Sources */,
+				52CD929A257F797200C1F66F /* ViewController.swift in Sources */,
+				52CD9296257F797200C1F66F /* AppDelegate.swift in Sources */,
+				52CD932D25889B1300C1F66F /* Notificaions.swift in Sources */,
+				52CD92AF257F83E500C1F66F /* PillsTableViewCell.swift in Sources */,
+				52CD92B2257F85F800C1F66F /* PillsModel.swift in Sources */,
+				52CD92B5257FA53F00C1F66F /* NewPillTableViewController.swift in Sources */,
+				52CD9298257F797200C1F66F /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		52CD929B257F797200C1F66F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52CD929C257F797200C1F66F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		52CD92A0257F797600C1F66F /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52CD92A1257F797600C1F66F /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		52CD92A4257F797600C1F66F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		52CD92A5257F797600C1F66F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		52CD92A7257F797600C1F66F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9MWGQTB4CA;
+				INFOPLIST_FILE = "Pill Box/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "nelermont.Pill-Box";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		52CD92A8257F797600C1F66F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9MWGQTB4CA;
+				INFOPLIST_FILE = "Pill Box/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "nelermont.Pill-Box";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		52CD928D257F797200C1F66F /* Build configuration list for PBXProject "Pill Box" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52CD92A4257F797600C1F66F /* Debug */,
+				52CD92A5257F797600C1F66F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		52CD92A6257F797600C1F66F /* Build configuration list for PBXNativeTarget "Pill Box" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52CD92A7257F797600C1F66F /* Debug */,
+				52CD92A8257F797600C1F66F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 52CD928A257F797200C1F66F /* Project object */;
+}
