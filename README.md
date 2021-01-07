@@ -22,3 +22,5 @@
 - напоминание о покупке по геолокации (при нахождении рядом с аптекой)
 
 ![Иллюстрация к проекту](https://github.com/nelermont/Pill-Box/blob/main/Pill%20Box/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-01-07%20at%2022.43.14.png?raw=true)
+
+!(https://github.com/nelermont/Pill-Box/blob/main/Pill%20Box/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-01-07%20at%2022.47.53.png?raw=true)
