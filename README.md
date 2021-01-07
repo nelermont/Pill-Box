@@ -23,7 +23,9 @@
 
 <p float="left">
 <img src="https://github.com/nelermont/Pill-Box/blob/main/Pill%20Box/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-01-07%20at%2022.43.14.png" width="200" />
+<br>
 <img src="https://github.com/nelermont/Pill-Box/blob/main/Pill%20Box/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-01-07%20at%2022.47.53.png" width="200" />
+  <br>
 <img src="https://github.com/nelermont/Pill-Box/blob/main/Pill%20Box/simulator_screenshot_E712C656-2632-4377-8306-59D9D5744511.png" width="200" />
 </p>
 
