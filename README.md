@@ -21,6 +21,11 @@
 - поиск лекарства в ближайшей аптеке
 - напоминание о покупке по геолокации (при нахождении рядом с аптекой)
 
-<img src="https://github.com/nelermont/Pill-Box/blob/main/Pill%20Box/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-01-07%20at%2022.43.14.png" width="200" border="1" border-color="#000"/>
-![Загрузочный экран](https://github.com/nelermont/Pill-Box/blob/main/Pill%20Box/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-01-07%20at%2022.43.14.png) 
-![Главный экран](https://github.com/nelermont/Pill-Box/blob/main/Pill%20Box/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-01-07%20at%2022.47.53.png?raw=true)
+<img src="https://github.com/nelermont/Pill-Box/blob/main/Pill%20Box/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-01-07%20at%2022.43.14.png" width="200" />
+<img src="https://github.com/nelermont/Pill-Box/blob/main/Pill%20Box/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-01-07%20at%2022.47.53.png" width="200" />
+<img src="https://github.com/nelermont/Pill-Box/blob/main/Pill%20Box/simulator_screenshot_E712C656-2632-4377-8306-59D9D5744511.png" width="200" />
+<img src="https://github.com/nelermont/Pill-Box/blob/main/Pill%20Box/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-01-07%20at%2022.47.57.png" width="200" />
+<img src="https://github.com/nelermont/Pill-Box/blob/main/Pill%20Box/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-01-07%20at%2022.48.06.png" width="200" />
+<img src="https://github.com/nelermont/Pill-Box/blob/main/Pill%20Box/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-01-07%20at%2022.48.11.png" width="200" />
+<img src="https://github.com/nelermont/Pill-Box/blob/main/Pill%20Box/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-01-07%20at%2022.49.02.png" width="200" />
+
