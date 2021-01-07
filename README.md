@@ -22,7 +22,7 @@
 - напоминание о покупке по геолокации (при нахождении рядом с аптекой)
 
 <p float="left">
-<img src="https://github.com/nelermont/Pill-Box/blob/main/Pill%20Box/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-01-07%20at%2022.43.14.png" width="200" padding-right="20px"/>
+<img src="https://github.com/nelermont/Pill-Box/blob/main/Pill%20Box/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-01-07%20at%2022.43.14.png" width="200" padding-right="20px" border-style="solid" border-color="black" border-width="1px"/>
 
 <img src="https://github.com/nelermont/Pill-Box/blob/main/Pill%20Box/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-01-07%20at%2022.47.53.png" width="200" padding-right="20px"/>
 
